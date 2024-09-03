@@ -1,3 +1,4 @@
 Initial content for file1
 Updated content for file1
 Updated content for file1
+Temporary changes to file1-renamed.txt

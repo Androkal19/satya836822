@@ -1,0 +1,6 @@
+scapy==2.4.5
+prettytable==2.1.0
+mac-vendor-lookup==0.3.7
+progressbar2==3.38.0
+termcolor==1.1.0
+pyfiglet==0.8.post1

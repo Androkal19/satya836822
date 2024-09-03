@@ -1,1 +1,3 @@
 Initial content for file1
+Updated content for file1
+Updated content for file1
